@@ -7,11 +7,16 @@ body{
     border-bottom: 5px solid #45a29e;
 }
 .borders{
-    border-top: 5px solid #66fcf1;
-    border-right: 5px solid #45a29e;
-    border-bottom: 5px solid #66fcf1;
-    border-left: 5px solid #45a29e;
+    width: 600px;
+    height: 600px;
+}
+.borders ul{
+    list-style: none;
+}
+.borders li{
+    margin: 8px;
 }
 .borders a{
     color: #66fcf1;
+    text-decoration: none;
 }
